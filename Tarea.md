@@ -35,10 +35,13 @@ Datos abiertos Bogotá http://datosabiertos.bogota.gov.co/
 
 4.	Para el desarrollo del mapa se utilizó el mapa base proporcionado por el software
  ![img1](imagenes/img6.jpg)
+ 
 5.	Una vez creados los mapas requeridos, se procede a publicarlos en la web, para ello es necesario ingresar a QGIS Cloud
  ![img1](imagenes/img7.jpg)
+ 
 En donde será necesario cargar las capas que se requieren publicar
  ![img1](imagenes/img8.jpg)
+ 
 Los mapas publicados son los siguientes
  ![img1](imagenes/img9.jpg)
 ![img1](imagenes/img10.jpg)
