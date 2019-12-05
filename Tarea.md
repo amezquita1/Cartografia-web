@@ -21,7 +21,7 @@ Datos abiertos Bogotá http://datosabiertos.bogota.gov.co/
 
 
 1.	Inicialmente es necesario crear una cuenta en QGIS Cloud, posteriormente se debe intalar el plugin
-![img1](Imagenes/img1.jpg)
+![img1](imagenes/img1.jpg)
  
 2.	Descargar y subir la información al software QGIS
  
