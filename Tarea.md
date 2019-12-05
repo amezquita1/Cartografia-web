@@ -24,22 +24,24 @@ Datos abiertos Bogotá http://datosabiertos.bogota.gov.co/
 ![img1](imagenes/img1.jpg)
  
 2.	Descargar y subir la información al software QGIS
- 
+ ![img1](imagenes/img2.jpg)
+ ![img1](imagenes/img3.jpg)
  
 
 3.	Para categorizar el mapa se ingresó a propiedades y se eligió el tipo Categorizado para el valor LOC, Para la segunda forma de categorización se eligió agrupación de puntos tomando como base 200 unidades del mapa
- 
+ ![img1](imagenes/img4.jpg)
+ ![img1](imagenes/img5.jpg)
  
 
 4.	Para el desarrollo del mapa se utilizó el mapa base proporcionado por el software
- 
+ ![img1](imagenes/img6.jpg)
 5.	Una vez creados los mapas requeridos, se procede a publicarlos en la web, para ello es necesario ingresar a QGIS Cloud
- 
+ ![img1](imagenes/img7.jpg)
 En donde será necesario cargar las capas que se requieren publicar
- 
+ ![img1](imagenes/img8.jpg)
 Los mapas publicados son los siguientes
- 
-
+ ![img1](imagenes/img9.jpg)
+![img1](imagenes/img10.jpg)
  
 MAPA 1
 https://qgiscloud.com/amezquita1/mapaweb2/?bl=&st=&l=OpenStreetMap%2CEGBa&t=mapaweb2&e=-8291992%2C505314%2C-8210712%2C540980
